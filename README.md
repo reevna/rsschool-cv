@@ -1,1 +1,1 @@
-# rsschool-cv
+https://reevna.io/rsschool-cv/cv
