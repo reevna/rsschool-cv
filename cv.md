@@ -16,6 +16,39 @@ Together with the designer and the manager, I developed the design of the site w
 
 
 
+## Code example
+```
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:#f5f7fa;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    font-family: Montserrat;
+}
+
+.wrapper {
+    background-color:#ffffff;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar {
+    background-color:#1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+```
+
 ## Work experience
 * April 2019 — present time 
 __English teacher__ in China/Skyeng 
