@@ -60,7 +60,7 @@ __Advertising manager__ in LLC Raduga, Saint Petersburg, www.aerobutterfly.ru
 __Cabin crew__ in Etihad airways, UAE
 
 * October 2010 — February 2016
-__Advertising manager__ in LTD "PF "Constellation'', Saint Petersburg, www.poligonspb.ru
+__Advertising manager__ in LTD PF Constellation, Saint Petersburg, www.poligonspb.ru
 
 ## Education
 - *2011 St-Petersburg State University,* specialist in Political Science
